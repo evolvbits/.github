@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evolvbits/evolvbits-logo/refs/heads/main/SVG/evolvbits-logo-dark.svg" alt="EvolvBits" width="170"/><br>
+  <a href="https://evolvbits.github.io">
+    <img src="https://raw.githubusercontent.com/evolvbits/evolvbits-logo/refs/heads/main/SVG/evolvbits-logo-dark.svg" alt="EvolvBits" width="170"/><br>
+  </a>
   <strong>Tools that scale with you.</strong><br>
 </p> 
 
@@ -7,7 +9,7 @@
   Practical tools for individuals and teams.
 </p>
 <p align="center">
-  Visit the website to learn more: <a href="https://evolvbits.github.io" target="_blank">https://evolvbits.github.io</a>
+  Visit the website to learn more: <a href="https://evolvbits.github.io">https://evolvbits.github.io</a>
 </p>
 <p align="center">
   Created with ❤️ by developers, for all types of users.
