@@ -16,4 +16,4 @@
 </p> -->
 
 The acquisition of this organization is with OrbitBits.
-See: [orbitbits.com](https://orbitbits.com)
+See: [github.com/orbitbits](https://github.com/orbitbits)
