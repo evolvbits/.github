@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://evolvbits.github.io">
     <img src="https://raw.githubusercontent.com/evolvbits/evolvbits-logo/refs/heads/main/SVG/evolvbits-logo-dark.svg" alt="EvolvBits" width="170"/><br>
   </a>
@@ -13,4 +13,7 @@
 </p>
 <p align="center">
   Created with ❤️ by developers, for all types of users.
-</p>
+</p> -->
+
+The acquisition of this organization is with OrbitBits.
+See: [orbitbits.com](https://orbitbits.com)
